@@ -12,7 +12,7 @@
     "port": 5432,
     "username": "postgres",
     "password": "postgres",
-    "database": "graphql-ts-server-boilerplate",
+    "database": "fullstack_dev",
     "synchronize": false,
     "logging": true,
     "entities": ["src/entity/**/*.ts"],
